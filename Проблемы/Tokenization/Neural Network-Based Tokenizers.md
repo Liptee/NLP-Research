@@ -1,0 +1,4 @@
+1. **BERT** токенизатор - разработан Google как часть языковой модели  **Biderictional Endoder Representation from Transformers** (BERT). Он широко используется во многих приложениях NLP и известен своей высокой производительностью.
+2. **GPT** - токенизатор, разработанный компанией OpenAI как часть языковой модели **Generative Pre-trained Transformer** (GPT). Он также широко используется во многих приложениях NLP и известен своей высокой точностью.
+3. **RoBERTa** - разработан Facebook AI Research как часть языковой модели **RoBERTa**. Он представляет собой расширение модели **BERT**, позволяющее достичь наилучших результатов в нескольких эталонных тестах NLP.
+4. **Electra** - разработан Google в рамках модели **Efficiently Learning an Encoder that Classifies Token Replacements Accurately** (ELECTRA). Он известен своей высокой скоростью и точностью.
